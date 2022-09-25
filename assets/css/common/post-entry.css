@@ -12,6 +12,10 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 3;
+    background: linear-gradient(302deg,#42d392 50%,#647eff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .first-entry .entry-header h1 {
